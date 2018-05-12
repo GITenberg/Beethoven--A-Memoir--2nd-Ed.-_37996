@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '39183'
     url: http://www.gutenberg.org/2009/agents/39183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37996#Beethoven--A-Memoir--2nd-Ed.-
 gutenberg_issued: '2011-11-12'
 gutenberg_type: Text
 identifiers:
