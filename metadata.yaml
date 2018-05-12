@@ -1,0 +1,34 @@
+_repo: Beethoven--A-Memoir--2nd-Ed.-_37996
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Hiller, Ferdinand
+    aliases:
+    - Hiller, F. (Ferdinand)
+    - Von Hiller, Ferdinand
+    birthdate: 1811
+    deathdate: 1885
+    gutenberg_agent_id: '39828'
+    url: http://www.gutenberg.org/2009/agents/39828
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Graeme, Elliott
+    gutenberg_agent_id: '39183'
+    url: http://www.gutenberg.org/2009/agents/39183
+description: ''
+gutenberg_issued: '2011-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37996'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Beethoven, Ludwig van, 1770-1827'
+title: 'Beethoven: A Memoir (2nd Ed.)'
+url: http://www.gutenberg.org/ebooks/37996
